@@ -1,1 +1,1 @@
-O projeto Trybe Shopping, foi o nosso último projeto do módulo de fundamentos. Nele foram requisitados a grande maioria dos conhecimentos adquiridos nesse período.
+O projeto Trybe Shopping, foi o nosso último projeto do módulo de fundamentos. Nele foram requisitados a grande maioria dos conhecimentos adquiridos durante esse período sendo os princpais Html, CSS, JavaScript e também consumo de API.
